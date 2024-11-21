@@ -39,7 +39,7 @@ const Projects = () => {
       title: "Vitality Vault",
       description:
         "Vitality Vault is a website that allows users to onboard and purchase gym equipment easily, enhancing their fitness journey.",
-      link: "https://github.com/Gatchang-nyawargak/Vivosparks-Frontend.git",
+      link: "https://vitality-vault.vercel.app/",
       image: "/images/vitalitypage.png",
     },
     {
