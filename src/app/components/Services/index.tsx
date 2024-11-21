@@ -54,8 +54,8 @@ const Services = () => {
           whileInView={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.6, ease: "easeOut" }}
         >
-          <h2 className="text-5xl font-bold text-black-500">What Services I&rsquo;m Providing</h2>
-          <p className="text-gray-600 mt-2 text-xl">Click &quot;Learn More&quot; to discover how I can help bring your ideas to life.</p>
+          <h2 className="md:text-5xl text-3xl font-bold text-black-500">What Services I&rsquo;m Providing</h2>
+          <p className="text-gray-600 mt-2 md:text-xl text-[10px]">Click &quot;Learn More&quot; to discover how I can help bring your ideas to life.</p>
           <div className="mt-2 h-1 w-16 bg-pink-500 mx-auto"></div>
         </motion.div>
 

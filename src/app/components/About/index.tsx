@@ -9,7 +9,7 @@ const About = () => {
         <div className="text-center mb-16">
           <h2 className="text-5xl font-extrabold text-gray-900 mb-4">About Me</h2>
           <p className="text-gray-700 text-xl max-w-4xl mx-auto">
-            I am Ronald McGarret, a dynamic Fullstack Developer driven by the pursuit of crafting impactful, user-centered digital solutions. I bring innovation and expertise to every project I undertake.
+            I am a dynamic Fullstack Developer driven by the pursuit of crafting impactful, user-centered digital solutions. I bring innovation and expertise to every project I undertake.
           </p>
           <div className="mt-6 h-1 w-16 bg-blue-500 mx-auto"></div>
         </div>
@@ -38,7 +38,7 @@ const About = () => {
               Blending Creativity & Technical Excellence
             </h3>
             <p className="text-gray-700 text-lg text-center md:text-left leading-relaxed">
-              Hello, I&#39;m <span className="font-bold text-blue-900">Ronald McGarret</span>, a Fullstack Developer specializing in crafting modern, scalable web and mobile applications. My passion lies in transforming challenges into seamless, impactful solutions.
+            As a Fullstack Developer specializing in crafting modern, scalable web and mobile applications. My passion lies in transforming challenges into seamless, impactful solutions.
             </p>
 
             <p className="text-gray-700 text-lg text-center md:text-left leading-relaxed">

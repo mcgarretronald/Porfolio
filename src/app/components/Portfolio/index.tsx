@@ -87,7 +87,7 @@ const Projects = () => {
               >
                 {project.title} <FaExternalLinkAlt className="ml-2" />
               </a>
-              <p className="text-black-500 mb-4 ">{project.description}</p>
+              <p className="text-black-500 mb-4 text-[12px] ">{project.description}</p>
             </motion.div>
           ))}
         </div>
