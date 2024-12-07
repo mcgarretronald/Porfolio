@@ -14,8 +14,8 @@ const servicesData = [
   {
     title: "Mobile Development",
     icon: <FaMobileAlt size={60} className="text-blue-500" />,
-    shortDescription: "Developing seamless mobile apps with Flutter, ensuring scalability and great user experience.",
-    details: "Using Flutter, I create mobile applications that are both efficient and visually appealing. My focus is on delivering cross-platform apps that run smoothly on both Android and iOS devices.",
+    shortDescription: "Developing seamless mobile apps with React Native, ensuring scalability and great user experience.",
+    details: "Using React Native, I create mobile applications that are both efficient and visually appealing. My focus is on delivering cross-platform apps that run smoothly on both Android and iOS devices.",
   },
   {
     title: "Backend Development",

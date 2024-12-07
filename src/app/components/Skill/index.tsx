@@ -31,7 +31,7 @@ const Skills = () => {
       category: "Mobile Development",
       icon: <FaMobileAlt size={40} className="text-green-500" />,
       topics: ["Learning Mobile Development",
-        "Building Android and iOS apps using Flutter",
+        "Building Android and iOS apps using React Native",
       ],
       progressLabel: "Beginner",
       progressValue: "50%",
